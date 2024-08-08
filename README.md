@@ -6,5 +6,5 @@
 
 ## My activity
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=static-fuji&theme=react"  />
+  <img width="150px"src="https://github-readme-streak-stats.herokuapp.com/?user=static-fuji&theme=react"  />
 </div>
