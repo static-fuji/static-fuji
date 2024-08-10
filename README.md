@@ -1,5 +1,5 @@
 ## My activity
 <div align="center">
   <img height="150px"src="https://github-readme-streak-stats.herokuapp.com/?user=static-fuji&theme=react"  />
-  <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=static-fuji&theme=react">
+  <img  height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=static-fuji&theme=react" alt="Top Languages Card" />
 </div>
