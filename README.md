@@ -4,4 +4,4 @@
 </div>
 
 ## My favorite
-[![My Skills](https://skillicons.dev/icons?i=go,rust,git,github,docker,kubernetes,nginx,)](https://skillicons.dev)
+[![My Fairites](https://skillicons.dev/icons?i=go,rust,git,github,docker,kubernetes,nginx)](https://skillicons.dev)
