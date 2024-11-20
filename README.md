@@ -4,6 +4,4 @@
 </div>
 
 ## My favorite
-<div align="center">
-  <img  width="700px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=static-fuji&layout=compact&theme=react" alt="Top Languages Card" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=go,rust,git,github,docker,kubernetes,nginx,)](https://skillicons.dev)
